@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my undergraduate's graduation project
 - 🌱 I’m currently learning parallel computing
 - 🤔 I’m looking for help with BLAS(basic linear algebra subroutine) developing
-- ⚡ Fun fact: I'm a undergraduate from business school, but I'll go to ISCAS for a CS PhD in 2022!
+- ⚡ Fun fact: I'm a undergraduate from business school, but I'm working for a CS PhD in ISCAS now!
 
 <!--
 **Catigeart/Catigeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
