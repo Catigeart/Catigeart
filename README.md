@@ -1,13 +1,16 @@
 ### Welcome to my GitHub! 👋
-- 🔭 I’m currently working on my undergraduate's graduation project
-- 🌱 I’m currently learning parallel computing
-- 🤔 I’m looking for help with BLAS(basic linear algebra subroutine) developing
-- ⚡ Fun fact: I'm a undergraduate from business school, but I'm working for a CS PhD in ISCAS now!
+- 🔭 I’m currently working on my PhD degree in Institute of Software, Chinese Academic of Science
+- 🌱 My research interest is parallel algorithms and software
+- 📫 How to reach me: catigeart@gmail.com
 
 <!--
 **Catigeart/Catigeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently working on my undergraduate's graduation project
+- 🌱 I’m currently learning parallel computing
+- 🤔 I’m looking for help with BLAS(basic linear algebra subroutine) developing
+- ⚡ Fun fact: I'm a undergraduate from business school, but I'm working for a CS PhD in ISCAS now!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
