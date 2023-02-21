@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 👋
-- 🔭 I’m currently working on my PhD degree in Institute of Software, Chinese Academic of Science
-- 🌱 My research interest is parallel algorithms and software
+- 🔭 I’m working on my PhD degree in Institute of Software, Chinese Academic of Sciences
+- 🌱 I'm interested in parallel algorithms and software
 - 📫 How to reach me: catigeart@gmail.com
 
 <!--
