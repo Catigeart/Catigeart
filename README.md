@@ -1,6 +1,5 @@
 ### Welcome to my GitHub! 👋
 - 🔭 I’m working on my PhD degree in Institute of Software, Chinese Academic of Sciences
-<!-- - 🌱 I'm interested in parallel algorithms and software -->
 - 📫 How to reach me: catigeart@gmail.com
 
 <!--
@@ -8,6 +7,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my undergraduate's graduation project
+- 🌱 I'm interested in parallel algorithms and software
 - 🌱 I’m currently learning parallel computing
 - 🤔 I’m looking for help with BLAS(basic linear algebra subroutine) developing
 - ⚡ Fun fact: I'm a undergraduate from business school, but I'm working for a CS PhD in ISCAS now!
