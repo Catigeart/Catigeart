@@ -1,5 +1,6 @@
 ### Welcome to my GitHub! 👋
 - 🔭 I’m working on my PhD degree in Institute of Software, Chinese Academic of Sciences
+- ✨ My technology blog: [URL](https://catigeart.github.io/)
 - 📫 How to reach me: catigeart@gmail.com
 
 <!--
